@@ -1,0 +1,8 @@
+Computer Networks
+
+A computer network is a collection of interconnected computers
+that can communicate and share resources.
+
+LAN stands for Local Area Network.
+WAN stands for Wide Area Network.
+A protocol is a set of rules used for communication between devices.
